@@ -58,6 +58,7 @@
 
 ## Articles & Blog Posts
 
+- [Understanding Why You'd Use Effect TS](https://cm.xyz/blog/understanding-why-youd-use-effect-ts) - Cooper Maruyama. 
 - [How to implement a backend with Effect](https://www.typeonce.dev/article/how-to-implement-a-backend-with-effect) - Sandro Maglione (Typeonce). In-depth walkthrough of a full Effect backend: `HttpApi`, routing, PostgreSQL, and a derived type-safe client.
 - [PostgreSQL database with Effect and Drizzle](https://www.typeonce.dev/course/paddle-payments-full-stack-typescript-app/server-implementation/postgres-database-with-effect-and-drizzle) - Typeonce course chapter on wiring Drizzle into an Effect app.
 - [A Type-Safe GraphQL Backend with Effect and Drizzle](https://dev.to/martinpersson/building-a-robust-backend-with-effect-graphql-and-drizzle-k4j) - Martin Persson.
